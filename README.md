@@ -19,16 +19,3 @@
 <p align="center">
   <img alt="Forkify App" src="./src/img/forkify-alamin-screenshot.png" width="100%" />
 </p>
-
-## Flowchart
-
-<p align="center">
-  <img alt="Flowchart" src="./forkify-flowchart-part-3.png" width="100%" />
-</p>
-
-## Recipe Loading Architecture
-
-<p align="center">
-  <img alt="Recipe Loading Architecture" src="./forkify-architecture-recipe-loading.png" width="100%" />
-</p>
-```
